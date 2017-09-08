@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  padding: 5%;
+  background-color: grey;
+  color: white;
+  font-family: Arial;
+}
+
+.board {
+  display: inline-block;
+  width: 500px;
+  padding: 2%;
+}
